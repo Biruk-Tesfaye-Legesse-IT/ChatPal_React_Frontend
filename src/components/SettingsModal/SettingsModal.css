@@ -1,0 +1,10 @@
+.myButton {
+color:#067cff;
+margin-top: 8rem;
+
+cursor: pointer;
+position: absolute;
+z-index: 10;
+size: 30px;
+
+}
